@@ -33,6 +33,7 @@ Travel-Analysis/
 - **Matplotlib** – 2D and 3D data visualizations
 - **Seaborn** – Enhanced statistical graphics
 - **mpl_toolkits.mplot3d** – For 3D plotting
+- **scikit-learn** - For preprocessing data
 
 ---
 
